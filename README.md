@@ -1,4 +1,3 @@
-# Historical-Photo-Colorization-with-cnn
 # **Historical Photo Colorization with CNN**
 
 <div align="center">
@@ -21,7 +20,7 @@
 
 ## 🎯 Overview
 
-**Historical Photo Colorization** is an advanced deep learning project that automatically colorizes black and white historical photographs using a CNN-based autoencoder architecture. Unlike simple filter-based approaches, our model understands semantic content and applies historically accurate colors through learned patterns from millions of images.
+**Historical Photo Colorization** is an advanced machine learning project that automatically colorizes black and white historical photographs using a CNN-based autoencoder architecture. Unlike simple filter-based approaches, our model understands semantic content and applies historically accurate colors through learned patterns from millions of images.
 
 ### ✨ Key Features
 
